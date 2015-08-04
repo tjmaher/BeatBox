@@ -9,3 +9,6 @@ Modification by T.J. Maher:
  * Created a listener for the instrument checkboxes, so the new beat would play instantly, instead of waiting 
    for the user to press 'Start'
  * Changed the GUI a bit
+ 
+
+You can download the executable jar files at https://github.com/tjmaher/BeatBox/blob/master/out/artifacts/
